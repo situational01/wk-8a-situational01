@@ -20,4 +20,4 @@ This project implements a relational database for a **Clinic Booking System** us
      ```
 
 ## ERD (Entity Relationship Diagram)
-![ERD](path/to/your/ERD_image.png)
+![ERD](Image/ERD_image.png)
